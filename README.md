@@ -8,4 +8,4 @@ Elle Dykstra
 
 Cindy Tra
 
-## Roles 
+## Primary Responsiblities 
