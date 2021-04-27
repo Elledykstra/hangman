@@ -9,3 +9,4 @@ Elle Dykstra
 Cindy Tra
 
 ## Primary Responsiblities 
+Elle: UML Class Diagram 
