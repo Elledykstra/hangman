@@ -3,5 +3,7 @@ An interactive Hangman game with graphics that the user is able to play and gues
 
 ## Project Group Members
 Miles Groussman
+
 Elle Dykstra
+
 Cindy Tra
