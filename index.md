@@ -10,7 +10,7 @@ Cindy: Title, Description, List of Group Members
 
 Miles: Make Files, GUI Mockup
 
-### Source File: [HERE] ()
+### Source File: [HERE] (https://github.com/cindydtra/HangmanApp/tree/gh-pages/src/HangmanApp)
 
 ### GUI Mockup
 ![GUIMockup](https://github.com/cindydtra/HangmanApp/blob/gh-pages/Images/Hangman%20GUI%20.png)
