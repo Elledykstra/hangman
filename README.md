@@ -13,7 +13,7 @@ Miles: Make Files, GUI Mockup
 ### Source File: [Here](https://github.com/cindydtra/HangmanApp/tree/gh-pages/src/HangmanApp)
 
 ### GUI Mockup
-![GUIMockup](https://github.com/cindydtra/HangmanApp/blob/gh-pages/Images/Hangman%20GUI%20.png?raw=true)
+![GUIMockup](https://github.com/cindydtra/HangmanApp/blob/main/Images/HangmanGUI.png)
 
 ### Hangman Class Diagram
 ![HangmanDiagram](https://github.com/cindydtra/HangmanApp/blob/main/Images/hangman-diagram.png)
