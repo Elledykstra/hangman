@@ -1,5 +1,5 @@
 # Hangman Game
-An interactive Hangman game with visual in which the user can input a letter to try to complete a random word given. The random word is chosen through an array list, and the visual is sown through some ASCII art.
+An interactive Hangman game with visual in which the user can input a letter to try to complete a random word given. The random word is chosen through an array list, and the visual is shown through a series ASCII art.
 
 ## Project Group Members: Miles Groussman, Elle Dykstra, Cindy Tra
 
