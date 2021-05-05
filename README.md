@@ -1,5 +1,5 @@
 # Hangman Game
-An interactive Hangman game with a hangman visual. The user is able to input a letter in order to try to guess letters that complete a word. If the user is unable to complete the word, the user loses and can choose to quit or play a new game. It's the same way if the user is able to complete the word: If the user completes the word, the user wins and can choose if they want to quit or play a new game.
+An interactive Hangman game with visual in which the user can input a letter to try to complete a random word given. The random word is chosen through an array list, and the visual is sown through some ASCII art.
 
 ## Project Group Members: Miles Groussman, Elle Dykstra, Cindy Tra
 
