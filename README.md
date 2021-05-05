@@ -10,7 +10,7 @@ Elle: Visuals/Graphics
 
 Cindy: 
 
-### Source File: [Here](https://github.com/cindydtra/HangmanApp/tree/gh-pages/src/HangmanApp)
+### Source File: [Here](https://github.com/cindydtra/HangmanApp/tree/main/src/HangmanApp)
 
 ### GUI Mockup
 ![GUIMockup](https://github.com/cindydtra/HangmanApp/blob/main/Images/HangmanGUI.png)
