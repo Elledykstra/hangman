@@ -4,9 +4,9 @@ An interactive Hangman game with graphics that the user is able to play and gues
 ## Project Group Members: Miles Groussman, Elle Dykstra, Cindy Tra
 
 ## Primary Responsiblities 
-Elle: Visuals/Graphics
-
 Miles: Array List of Words
+
+Elle: Visuals/Graphics
 
 Cindy: 
 
