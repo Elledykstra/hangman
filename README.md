@@ -4,11 +4,11 @@ An interactive Hangman game with graphics that the user is able to play and gues
 ## Project Group Members: Miles Groussman, Elle Dykstra, Cindy Tra
 
 ## Primary Responsiblities 
-Elle: UML Class Diagram 
+Elle: Visuals/Graphics
 
-Cindy: Title, Description, List of Group Members 
+Miles: Array List of Words
 
-Miles: Make Files, GUI Mockup
+Cindy: 
 
 ### Source File: [Here](https://github.com/cindydtra/HangmanApp/tree/gh-pages/src/HangmanApp)
 
