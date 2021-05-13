@@ -4,11 +4,11 @@ An interactive Hangman game with visual in which the user can input a letter to 
 ## Project Group Members: Miles Groussman, Elle Dykstra, Cindy Tra
 
 ## Primary Responsiblities 
-Miles: Array List of Words
+Miles: Planning/Arcitecture
 
-Elle: Visuals/Graphics
+Elle: Research/Development
 
-Cindy: 
+Cindy: Visual/Graphics
 
 ### Source File: [Here](https://github.com/cindydtra/HangmanApp/tree/main/src/HangmanApp)
 
