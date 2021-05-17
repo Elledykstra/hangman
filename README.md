@@ -4,7 +4,7 @@ An interactive Hangman game with graphics in which the user can input a letter t
 ## Project Group Members: Miles Groussman, Elle Dykstra, Cindy Tra
 
 ## Primary Responsiblities 
-Miles: Planning/Arcitecture
+Miles: Planning/Architecture
 
 Elle: Research/Development
 
