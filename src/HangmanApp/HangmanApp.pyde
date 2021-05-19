@@ -95,7 +95,7 @@ def alphabet():
         
     if keyPressed:
         if key == 'h' or key == 'H':
-            showText('h')
+            showText('H')
     else:
         fill(255)
         
