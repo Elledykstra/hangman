@@ -44,11 +44,24 @@ def pole():
     line(x+80, y-160, x-20, y-160)
     line(x-20, y-160, x-20, y-120)
     
+def dash():
+    x = 400 
+    y = 400
+    stroke(250)
+    strokeWeight(5)
+    line(x+50, y+300, x+100, y+300)
+    line(x-25, y+300, x+25, y+300)
+    line(x-100, y+300, x-50, y+300)
+    line(x-175, y+300, x-125, y+300)
+    line(x-250, y+300, x-200, y+300)
+    line(x-325, y+300, x-275, y+300)
+    
 def showText(guess):
-    fill(0, 122, 41)
-    rect(100, 300, 50, 50)
+    x = 400
+    y = 400
+    textSize(40)
     fill(255)
-    text(guess, 125, 330)
+    text(guess, x-300, y+295)
     
 def alphabet():
     if keyPressed:
