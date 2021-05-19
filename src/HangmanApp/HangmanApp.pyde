@@ -16,9 +16,11 @@ a2 = Arm2(400, 400)
 b1 = Body(400, 400)
 l1 = Leg1(400, 400)
 l2 = Leg2(400, 400)
-guess = ''
+guess = ' '
+
 
 words = ['trench', 'manner', 'depart', 'dilute', 'health', 'report', 'flavor', 'rhythm', 'effect', 'needle', 'camera', 'railcar', 'safety', 'thanks', 'option', 'subway', 'resist', 'reward', 'demand', 'divide', 'squash', 'garlic', 'forest', 'appear', 'hiccup', 'immune', 'unrest', 'sector', 'corner', 'symbol', 'height', 'regret', 'ground', 'memory', 'canvas', 'retain', 'weight', 'polite', 'critic', 'crouch', 'outlet', 'morale', 'safari', 'matter', 'arrest', 'mobile', 'linger', 'bucket', 'runner']
+given = random.choice(words)
 
 def setup():
     size (800, 800)
@@ -34,6 +36,7 @@ def draw():
     pole()
     alphabet()
     dash()
+    process()
 
 def pole():
     stroke(250)
@@ -220,3 +223,29 @@ def alphabet():
             showText('Z')
     else:
         fill(255)
+        
+def process():
+    failed = 0
+    turns = 6
+    win = 'YOU WIN!'
+    while turns > 0:
+        for char in given:
+            if char in guesses:
+                text(char, 0, 0)
+            else:
+                text('_', 0, 0)
+                failed += 1
+        
+        if failed == 0:
+            text(win)
+            text('The word is:'+ given, 0, 0)
+    
+    guess = input('Guess another letter:')
+    guesses += guess
+    if guess not in word:
+        turns -= 1
+        text('That is incorrect.', 0, 0)
+        text('You have' + turns + 'more guesses.', 0, 0)
+    
+        if turns == 0:
+            text('You lose!', 0, 0)
