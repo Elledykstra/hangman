@@ -33,6 +33,7 @@ def draw():
     text('Make sure that the man does not get hung!', width/2, height/2-305)
     pole()
     alphabet()
+    dash()
 
 def pole():
     stroke(250)
