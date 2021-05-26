@@ -16,4 +16,4 @@ Cindy: Visual/Graphics
 ![GUIMockup](https://github.com/cindydtra/HangmanApp/blob/main/Images/HangmanGUI.png)
 
 ### Hangman Class Diagram
-![Diagram](https://github.com/cindydtra/HangmanApp/blob/bacc55b2a9b607ee42e93a8c26d8996b226781db/Images/HangmanDiagram.pdf)
+![Diagram](https://github.com/cindydtra/HangmanApp/blob/main/Images/HangmanDiagram.pdf)
