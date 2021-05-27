@@ -10,7 +10,7 @@ Elle: Research/Development
 
 Cindy: Visual/Graphics
 
-### Source File: [Here]()
+### Source File: [HERE]()
 
 ### GUI Mockup
 ![GUIMockup](https://github.com/cindydtra/HangmanApp/blob/main/Images/HangmanGUI.png)
