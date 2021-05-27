@@ -17,7 +17,7 @@ b1 = Body(400, 400)
 l1 = Leg1(400, 400)
 l2 = Leg2(400, 400)
 guess = ' '
-char = 'a' or 'b' or 'c' or 'd' or 'e' or 'f' or 'g'
+char = 'a' or 'b' or 'c' or 'd' or 'e' or 'f' or 'g' or 'h' or 'i' or 'j' or 'k' or 'l' or 'm' or 'n' or 'o' or 'p' or 'q' or 'r' or 's' or 't' or 'u' or 'v' or 'w' or 'x' or 'y' or 'z'
 
 words = ['trench', 'manner', 'depart', 'dilute', 'health', 'report', 'flavor', 'rhythm', 'effect', 'needle', 'camera', 'railcar', 'safety', 'thanks', 'option', 'subway', 'resist', 'reward', 'demand', 'divide', 'squash', 'garlic', 'forest', 'appear', 'hiccup', 'immune', 'unrest', 'sector', 'corner', 'symbol', 'height', 'regret', 'ground', 'memory', 'canvas', 'retain', 'weight', 'polite', 'critic', 'crouch', 'outlet', 'morale', 'safari', 'matter', 'arrest', 'mobile', 'linger', 'bucket', 'runner']
 given = random.choice(words)
