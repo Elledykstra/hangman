@@ -18,5 +18,4 @@ Cindy: Visual/Graphics
 ### Hangman Class Diagram
 ![Diagram](https://github.com/cindydtra/HangmanApp/blob/7c9669c07d2571dc54187eade15cfbc82654fbb5/Images/HangmanDiagram.png)
 
-### Screen Capture
-![Capture](https://github.com/cindydtra/HangmanApp/blob/e52e0e9996acbafc2cc96c6e3386513928101b2e/Images/Hangman%20Screen%20Capture.png)
+
